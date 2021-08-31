@@ -175,9 +175,25 @@ curl: (22) The requested URL returned error: 502 Bad Gateway
 
 ![image](https://user-images.githubusercontent.com/85481359/131506368-c9dbf73d-9307-47e2-9ad4-5f5edc227b18.png)
 
-* Enjoy
+* Open TFE and create the admin user and your firts organisation
 
-![image](https://user-images.githubusercontent.com/85481359/131506458-8ae2bff0-d97e-47a8-95c5-d2ea4dd8e003.png)
+![image](https://user-images.githubusercontent.com/85481359/131522857-993f04bb-2a3f-4605-b902-b38654a2c476.png)
+
+* Go to settings > admin > SMTP. Enter your smtp settings 
+
+![image](https://user-images.githubusercontent.com/85481359/131524333-000049e3-dcb0-4a7a-aa73-2131dab587e6.png)
+
+* Go to your organisation  > Settings > Users > Invite a user
+
+![image](https://user-images.githubusercontent.com/85481359/131524465-809947d3-1cba-4751-8afd-2e84c8e2e7c6.png)
+
+* Invite user
+
+![image](https://user-images.githubusercontent.com/85481359/131524116-bed64baa-1a18-4b21-a075-4754c657b5a0.png)
+
+* Check your email client for the Terraform Enterprise invitation
+
+![image](https://user-images.githubusercontent.com/85481359/131523700-3b0aca10-82b7-4fc8-8171-352fa862b248.png)
 
 
 ### Cleanup
