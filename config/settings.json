@@ -27,7 +27,7 @@
     "gcs_credentials": {},
     "gcs_project": {},
     "hostname": {
-        "value": "192.168.10.10.sape.com"
+        "value": "192.168.10.10"
     },
     "installation_type": {
         "value": "poc"
