@@ -38,6 +38,11 @@ cd tfe-vagrant
 cp /path/to/your/license config/license.rli
 ```
 
+_sample_ :
+
+```
+cp ~/Downloads/hashicorp-internal---support.rli config/license.rli
+```
 
 * Bring up the VM:
 
