@@ -1,15 +1,14 @@
-# SkillMap-template
-Template for skillmap related tasks
+# tfe-vagrant
+Install TFE on Demo version with Self Sign Certificate - vagrant -VirtualBox
 
-## Description
-What the goal of this repo ?
 
 ## Pre-requirements
 
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
 * [Terraform cli](https://learn.hashicorp.com/tutorials/terraform/install-cli)
-* c
-* d
+* [Vagrant](https://www.vagrantup.com/docs/installation)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 
 ## How to use this repo
 
@@ -22,13 +21,13 @@ What the goal of this repo ?
 ### Clone the repo
 
 ```
-git clone xxxxxx
+git clone https://github.com/viv-garot/tfe-vagrant
 ```
 
 ### Change directory
 
 ```
-cd xxxxxx
+cd tfe-vagrant
 ```
 
 ### Run
